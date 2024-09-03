@@ -35,13 +35,13 @@ public class Datatyepractice : MonoBehaviour
 
         Debug.Log("Starting number for num5 is: " * num5);
         num5 = num5 * 2;
-        Debug.Log("The end number for num5 multiply 2 is: " * num10)
+        Debug.Log("The end number for num5 multiply 2 is: " * num10);
 
         Debug.Log("Starting number for num6 is: " / num3);
         num6 = num6 / 3;
-        Debug.Log("The end number for num6 is: " / 2)
+        Debug.Log("The end number for num6 is: " / 2);
 
-       Debug.log(babydadyb.ToString() + babydadya.ToString() + babydadyd.ToString() + babydadyy.ToString() + babydadyz.ToString());
+        Debug.log(babydadyb.ToString() + babydadya.ToString() + babydadyd.ToString() + babydadyy.ToString() + babydadyz.ToString());
 
         
     }
