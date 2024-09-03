@@ -41,6 +41,8 @@ public class Datatyepractice : MonoBehaviour
         num6 = num6 / 3;
         Debug.Log("The end number for num6 is: " / 2)
 
+       Debug.log(babydadyb.ToString() + babydadya.ToString() + babydadyd.ToString() + babydadyy.ToString() + babydadyz.ToString())
+
         
     }
 }
